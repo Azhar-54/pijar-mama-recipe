@@ -167,13 +167,13 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-If you have any questions or inquiries regarding this project, feel free to contact:
+If you have any questions or inquiries regarding this project, don't hesitate to reach out:
 
-email : burhanuddinazhar2@gmail.com 
+Email: burhanuddinazhar2@gmail.com
 
-or 
+For issues related to the back-end, please contact the original developer, [Muhammad Risano](https://github.com/muhammadrisano). 
 
-[muhammadrisano](https://github.com/muhammadrisano) for back-end issues.
+We're here to help!
 
 ## Acknowledgements
 
