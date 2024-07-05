@@ -57,7 +57,7 @@ Ensure you have the following installed on your local machine:
 1. Clone Repo
 
    ```sh
-     git clone https://github.com/dimassagngsptr/pijar-mama-recipe.git
+     git clone https://github.com/Azhar-54/pijar-mama-recipe.git
    ```
 
 2. Go to workspace
