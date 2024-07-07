@@ -9,7 +9,7 @@
      Food Recipe Implementation
     <br />
     <br />
-     <a href="" target="_blank">View Demo</a>
+     <a href="https://pijar-mama-recipe.vercel.app/" target="_blank">View Demo</a>
     ·
      <a href="https://github.com/Azhar-54/mama-recipe-nextjs" target="_blank">View Front-End Repo</a>
   </p>
